@@ -11,7 +11,8 @@ activate :blog do |blog|
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
   # blog.sources = "{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
+  blog.sources = "articles/{year}-{month}-{day}-{title}.html"
+  blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -29,7 +30,44 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+set :casper, {
+  blog: {
+    url: 'http://blog.jenharley.com',
+    name: "Jenny's Blog",
+    description: 'My blog about making things',
+    date_format: '%B %d, %Y',
+    logo: nil # Optional
+  },
+  author: {
+    name: 'Jen Harley',
+    bio: '',
+    location: nil, # Optional
+    website: 'http://jenharley.com', # Optional
+    gravatar_email: nil # Optional
+  }
+}
+
+
 page "/feed.xml", layout: false
+page '/sitemap.xml', layout: false
+
+ignore '/partials/*'
+
+ready do
+  blog.tags.each do |tag, articles|
+    proxy "/tag/#{tag.downcase.parameterize}/feed.xml", '/feed.xml', layout: false do
+      @tagname = tag
+      @articles = articles[0..5]
+    end
+  end
+
+  proxy "/author/#{blog_author.name.parameterize}.html", '/author.html', ignore: true
+end
+
+set :haml, { ugly: true }
+set :markdown_engine, :redcarpet
+set :markdown, fenced_code_blocks: true, smartypants: true
+activate :syntax, line_numbers: true
 
 set :build_dir, 'tmp'
 
