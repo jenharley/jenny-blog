@@ -11,7 +11,6 @@ gem "middleman-syntax", "~> 2.0.0"
 gem "neat"
 gem "nokogiri", "~> 1.6.5"
 gem "rack-contrib"
-gem "rack-cors"
 gem "redcarpet", "~> 3.2.2"
 gem "sanitize", "~> 3.1.0"
 
