@@ -13,3 +13,7 @@ gem "nokogiri", "~> 1.6.5"
 gem "rack-contrib"
 gem "redcarpet", "~> 3.2.2"
 gem "sanitize", "~> 3.1.0"
+
+source "https://rails-assets.org" do
+  gem "rails-assets-angular"
+end

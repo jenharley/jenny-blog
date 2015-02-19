@@ -1,0 +1,13 @@
+.instagram {
+  @include row;
+  padding: 0;
+
+  &-post {
+    @include span-columns(3);
+    list-style: none;
+
+    &:nth-child(4n) {
+      margin-right: 0;
+    }
+  }
+}
