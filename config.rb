@@ -33,7 +33,7 @@ end
 set :casper, {
   blog: {
     url: 'http://blog.jenharley.com',
-    name: "Jenny's Blog",
+    name: "Jen Harley | Blog",
     description: 'My blog about making things',
     date_format: '%B %d, %Y',
     logo: nil # Optional
