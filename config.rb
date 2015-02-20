@@ -96,7 +96,7 @@ require 'rack/cors'
 use Rack::Cors do
   allow do
     origins '*'
-    resource 'feed.xml',
+    resource '*',
       headers: :any,
       methods: [:get, :options]
   end
