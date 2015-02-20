@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+    <site-control permitted-cross-domain-policies="all"/>
+    <allow-access-from domain="jenharley.com" to-ports="*" secure="false"/>
+    <allow-access-from domain="www.jenharley.com" to-ports="*" secure="false"/>
+    <allow-access-from domain="jmh-portfolio.herokuapp.com" to-ports="*" secure="false"/>
+    <allow-http-request-headers-from domain="jenharley.com" headers="*" secure="false"/>
+    <allow-http-request-headers-from domain="www.jenharley.com" headers="*" secure="false"/>
+    <allow-http-request-headers-from domain="jmh-portfolio.herokuapp.com" headers="*" secure="false"/>
+</cross-domain-policy>
