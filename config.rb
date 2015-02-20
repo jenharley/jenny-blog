@@ -90,3 +90,14 @@ activate :deploy do |deploy|
   deploy.user     = 'smharley'
   deploy.password = ENV['JENNY_DEPLOY']
 end
+
+require 'rack/cors'
+
+use Rack::Cors do
+  allow do
+    origins '*'
+    resource 'feed.xml',
+      headers: :any,
+      methods: [:get, :options]
+  end
+end
