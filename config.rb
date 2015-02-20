@@ -81,3 +81,12 @@ set :images_dir, 'images'
 
 configure :build do
 end
+
+activate :deploy do |deploy|
+  deploy.method   = :sftp
+  deploy.host     = 'carroll.dreamhost.com'
+  deploy.port     = 22
+  deploy.path     = '/home/smharley/blog.jenharley.com'
+  deploy.user     = 'smharley'
+  deploy.password = ENV['JENNY_DEPLOY']
+end
