@@ -9,4 +9,4 @@ I posted my first shot ever to dribbble.  You can check it out [here](https://dr
 
 It was even featured in the [weekly replay](http://blog.dribbble.com/2013/10/28/weekly-replay.html)!
 
-![](http://static.jenharley.com/blog/2015/dribbble-debut/dribbble-debut-1.jpg)
+![](http://jenny.smharley.com/blog/2015/dribbble-debut/dribbble-debut-1.jpg)

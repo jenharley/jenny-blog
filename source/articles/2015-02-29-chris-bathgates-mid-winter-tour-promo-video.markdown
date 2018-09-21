@@ -27,22 +27,22 @@ Harley</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Here are some of my favorite details from the video:
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-1.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-1.png)
 Alabama Swamp
 
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-2.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-2.png)
 Atlanta, Ga \ The Varsity Drive-in \ Georgia State Capitol
 
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-3.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-3.png)
 Asheville, Nc \ Biltmore Estate
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-4.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-4.png)
 Fayetteville, Wv \ Fayette County Court \ New River Gorge Bridge
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-5.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-5.png)
 Louisville, Ky \ Louisville Slugger Museum \ Churchill Downs
 
-![](http://static.jenharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-6.png)
+![](http://jenny.smharley.com/blog/2015/chris-bathgates-mid-winter-tour-promo-video/mid-winter-tour-6.png)
 Ypsilanti, Mi \ Ypsilanti Water Tower \ Depot Town

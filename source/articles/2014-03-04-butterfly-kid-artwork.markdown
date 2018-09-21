@@ -10,15 +10,15 @@ My friend Jim Roll just released an album many years in the making.  He told me 
 
 This is what I came up with:
 
-![](http://static.jenharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-1.png)
+![](http://jenny.smharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-1.png)
 
-![](http://static.jenharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-2.png)
+![](http://jenny.smharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-2.png)
 
-![](http://static.jenharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-3.jpg)
+![](http://jenny.smharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-3.jpg)
 
 My butterfly kid may or may not have been inspired by this awesome Fox moto jacket that my friend Sky gave me:
 
-![](http://static.jenharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-4.jpg)
+![](http://jenny.smharley.com/blog/2015/butterfly-kid-artwork/butterfly-kid-artwork-4.jpg)
 
 You can listen to Jim’s record [here](https://jimroll.bandcamp.com/album/the-continuing-adventures-of-the-butterfly-kid).
 <br>Tracks 3 and 11 are my favorites :)
