@@ -93,7 +93,7 @@ GEM
     middleman-syntax (2.0.0)
       middleman-core (~> 3.2)
       rouge (~> 1.0)
-    mini_portile2 (2.3.0)
+    mini_portile2 (2.4.0)
     minitest (5.11.3)
     multi_json (1.13.1)
     neat (1.7.4)
@@ -102,8 +102,8 @@ GEM
     net-sftp (2.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (5.0.2)
-    nokogiri (1.8.3)
-      mini_portile2 (~> 2.3.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
     nokogumbo (1.2.0)
       nokogiri
     padrino-helpers (0.12.9)
@@ -165,7 +165,7 @@ DEPENDENCIES
   middleman-deploy
   middleman-syntax (~> 2.0.0)
   neat (= 1.7.4)
-  nokogiri (~> 1.8.1)
+  nokogiri (~> 1.10.10)
   rack-contrib
   rack-cors
   rails-assets-angular!
