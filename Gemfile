@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.3.0"
+ruby "2.7.3"
 
 gem "bitters", "0.10.1"
 gem "bourbon", "4.3.4"
