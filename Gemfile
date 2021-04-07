@@ -14,7 +14,7 @@ gem "nokogiri", "~> 1.8.1"
 gem "rack-contrib"
 gem "rack-cors"
 gem "redcarpet", "~> 3.2.2"
-gem "sanitize", "~> 3.1.0"
+gem "sanitize", "~> 4.6.6"
 
 source "https://rails-assets.org" do
   gem "rails-assets-angular"
