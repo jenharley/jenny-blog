@@ -13,7 +13,7 @@ gem "neat", "1.7.4"
 gem "nokogiri", "~> 1.8.1"
 gem "rack-contrib"
 gem "rack-cors"
-gem "redcarpet", "~> 3.2.2"
+gem "redcarpet", "~> 3.5.1"
 gem "sanitize", "~> 3.1.0"
 
 source "https://rails-assets.org" do
